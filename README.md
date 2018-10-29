@@ -1,2 +1,2 @@
 # hello-word
-Repositório de teste
+Repositório teste
