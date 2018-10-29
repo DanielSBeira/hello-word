@@ -1,2 +1,4 @@
 # hello-word
-Repositório teste
+**Repositório teste**
+
+Projeto de estudo
